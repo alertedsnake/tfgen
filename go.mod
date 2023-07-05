@@ -1,4 +1,4 @@
-module tfgen
+module github.com/refl3ction/tfgen
 
 go 1.17
 
